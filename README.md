@@ -50,7 +50,7 @@ The [report](ConorKiy_20204844_MLP.pdf) briefly describes the implementation of 
 
 Conor Kiy - [https://linkedin.com/in/conorkiy](https://linkedin.com/in/conorkiy) - conorkiy@gmail.com
 
-Project Link: [https://github.com/yik000/Simple-Java-Games-System](https://github.com/yik000/mlp-implementation)
+Project Link: [https://github.com/yik000/mlp-implementation](https://github.com/yik000/mlp-implementation)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
